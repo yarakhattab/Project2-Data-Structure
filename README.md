@@ -49,7 +49,8 @@ The Champion is the final team in the queue after all rounds.
 The Real Runner-Up is determined by re-evaluating the teams that lost to the champion.
 
 
-##✍️ Author:
+
+## ✍️ Author:
 Name: Yara Khattab
 GitHub: yarakhattab
 Email: yarakhattab16@gmail.com

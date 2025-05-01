@@ -57,8 +57,6 @@ Name: Yara Khattab
 🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
 
 
-🔗 GitHub: github.com/yarakhattab
-
 
 
 Feel free to update it further based on your preferences. Let me know if you'd like any other changes! 😊

@@ -54,7 +54,7 @@ The Real Runner-Up is determined by re-evaluating the teams that lost to the cha
 Name: Yara Khattab
 
 
-📧 Email: yarakhattab16@gmail.com
+🔗 [GitHub: @yarakhattab](https://github.com/yarakhattab)
 
 
 🔗 GitHub: github.com/yarakhattab
